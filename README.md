@@ -1,7 +1,7 @@
 # Active-Suspension-Control-System
 Comparative Study of Active Suspension Systems using P, PI, and PID Control. Simulated and validated through MATLAB/Simulink and CarSim co-simulation.
 ## 📺 Simulation Demo
-[🎬 Nhấn vào đây để xem Clip mô phỏng](./activesuspension.mp4)
+[](./activesuspension.gif)
 
 ## 📄 Documentation & Report
 - [Nhấn vào đây để xem Báo cáo chi tiết (PDF)](./active_suspension_control_system.pdf)
